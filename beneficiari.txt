@@ -1,0 +1,214 @@
+<i class="section-title">Beneficiarii serviciilor de Ingrijiri Palitive si Recuperare neuromotorie </i>
+
+
+
+    <p>
+
+    </p>
+
+
+    <p>
+      <br><br>
+      Pacienții adulți care pot beneficia de îngrijiri paliative specializate si recuperare neuromotorie in clinica
+      noastra, se încadrează de regulă în una
+      din categoriile de mai jos:
+    </p>
+    <p><strong>Pacienți cu boli oncologice, dacă se află în una din următoarele situații:</strong></p>
+    <p><img src="oncologie.png" height="100px" width="200px"></p>
+    <p>
+      a. cancer stadiu III sau stadiul IV sau stadiu II cu deteriorare progresivă a pacientului, în ciuda terapiei
+      anticanceroase;
+      <br>
+      b. cancer și statusul de Performantă Karnofsky < 70 sau Scor de performantă paliativă (PPS) < 70%; <br>
+
+        c. cancer și scăderea greutății cu 5% sau mai mult în ultimele 3 luni;
+        <br>
+        d. cancer și simptome de intensitate moderată sau severă precum dispnee, durere, hemoptizie, vărsături etc;
+        <br>
+        e. urgențe oncologice precum sindrom de venă cavă, status confuzional acut, hipercalcemie, etc;
+        <br>
+        f. cancer recidivat sau cu evoluție progresivă după chirurgie/ radioterapie/ chimioterapie;
+        <br>
+        g. cancer și criză existențială;
+        <br>
+        h. cancer și suferință psiho-socială (anxietate, depresie, familie în criză etc) moderat severă;
+        <br>
+        i. stare terminală.
+    </p>
+    <p><strong>Pacienți cu boli cardiovasculare, dacă prezintă:</strong></p>
+    <p><img src="cardio.png" height="200px" width="250px"></p>
+    <br>
+    <p>
+      a. răspuns slab la tratamentul optim cu diuretice și vasodilatatoare, incluzând inhibitori de
+      angiotensinconvertază;
+      <br>
+      b. prezența simptomelor semnificative ale insuficienței cardiace congestive la repaus și
+      clasificate de NYHA Clasa IV (incapacitatea de a desfășura orice activitate fizică fără disconfort, simptome de
+      insuficiență cardiacă sau angină la repaus sau disconfort crescut la efort minim).
+    </p>
+    <br>
+    <p> <strong> Pacienții cu scleroză laterală amiotrofică, dacă prezintă progresie rapidă a bolii în ultimele 12 luni,
+        evidențiate prin una din următoarele manifestări:</strong></p>
+    <p style="margin-inline-start: 5%;"><img src="scleroza2.png" height="300px" width="300px"></p>
+    <p>
+      a. trecerea de la mobilitatea independentă la scaunul cu rotile sau imobilizarea la pat;
+      <br>
+      b. trecerea de la vorbirea normală la vorbirea abia inteligibilă sau chiar neinteligibilă;
+      <br>
+      c. trecerea de la alimentația normală la cea semi-solidă/semi-lichidă;
+      <br>
+      d. trecerea de la capacitatea de a desfășura independent majoritatea sau chiar totalitatea activităților zilnice
+      la
+      nevoia majoră de asistență din partea îngrijitorului.
+
+    </p>
+    <p><strong>Pacienții cu demență în ultimul stadiu, dacă se află în una din următoarele situații:</strong></p>
+    <p><img src="dementa.png" height="200px" width="300px"></p>
+    <p>
+
+      <br>
+      a. stadiul 7 sau mai mult, conform scalei de evaluare funcționale;
+      <br>
+      b. incapacitate de mișcare fără asistență;c. incapacitate de a se îmbrăca fără asistență;
+      <br>
+      c. incapacitate de a-și asigura igiena personală fără asistență;
+      <br>
+      d. incontinență urinară și fecală, intermitentă sau constantă;
+      <br>
+      e. comunicare verbală fără sens, doar în fraze stereotipice, sau abilitatea de a vorbi în limita a 6 sau foarte
+      puține cuvinte inteligibile.
+
+    </p>
+    <p> <strong>Pacienții cu scleroză multiplă, dacă prezintă handicap nutrițional critic evidențiat prin una din
+        următoarele manifestări:</strong></p>
+    <p> <img src="Scleroza-multipla.png" height="200PX" width="300px"></p>
+    <p>
+      a. administrare orală insuficientă de alimente și lichide pentru a menține pacientul în viață;
+      <br>
+      b. pierdere continuă în greutate;
+      <br>
+      c. progresie rapidă a bolii sau complicații în ultimele 12 luni, evidențiate prin: trecerea de la mobilitate
+      independentă la scaunul cu rotile sau imobilizarea la pat; trecerea de la vorbirea normală la vorbirea abia
+      inteligibilă sau chiar neinteligibil; trecerea de la alimentația normală la cea semi-solidă/semi-lichidă; trecerea
+      de la capacitatea de a desfășura independent majoritatea sau chiar totalitatea activităților zilnice la nevoia
+      majoră de asistență din partea îngrijitorului.
+
+    </p>
+    <p><strong>Pacienții cu Boala Parkinson, dacă prezintă handicap nutrițional critic evidențiat prin una din
+        următoarele
+        manifestări</strong></p>
+    <p style="margin-inline-start: 5%;"> <img src="parkinson.png" height="200px" width="300px"></p>
+
+    <p>
+      a. administrarea orală insuficientă de alimente și lichide pentru a menține pacientul în viață;
+      <br>
+      b. pierdere continuă în greutate;
+      <br>
+      c. deshidratare sau hipovolemie;
+      <br>
+      d. absența metodelor de hrănire artificială;
+      <br>
+      e. evoluția rapidă a bolii sau complicații în ultimele 12 luni, evidențiate prin: trecerea de la mobilitate
+      independentă la scaunul cu rotile sau imobilizarea la pat; trecere de la vorbirea normală la vorbire abia
+      inteligibilă sau chiar neinteligibilă; trecere de la alimentația normală la cea semi-solidă/semi-lichidă; trecere
+      de
+      la capacitatea de a desfășura independent majoritatea sau chiar totalitatea activităților zilnice la nevoia majoră
+      de asistență din partea îngrijitorului.
+
+    </p>
+    <p> <strong>Pacienții cu boli pulmonare, dacă prezintă una din următoarele manifestări:</strong></p>
+    <p><img src="plamani1 (1).png" height="100px" width="200px"></p>
+    <p>
+      a. dispnee în repaus sau la efort minim, cu răspuns minim sau fără răspuns la bronhodilatatoare, având ca urmări
+      scăderea capacității funcționale, oboseala și tusea;
+      <br>
+      b. evoluția afecțiunilor pulmonare în ultim stadiu stadiu, puse în evidență de multiple apelări ale serviciului de
+      urgență sau spitalizările anterioare pentru infecții pulmonare și/sau insuficiență respiratorie;c. hipoxie, pusă
+      în
+      evidențăde pO2 < 55 mmHg și saturația de oxigen în sânge < 88% sau hipercapnie, pusă în evidență de pCO2> 50 mmHg,
+        cord pulmonar și insuficiență cardiacă dreaptă subordonată afecțiunii pulmonare;
+        <br>
+        d. pierderea progresivă în greutate, neintenționată, mai mare de 10% din greutatea corpului, în ultimele 6 luni;
+        <br>
+        e. tahicardie de repaus > 100/mm.
+
+    </p>
+    <p><strong>Pacienții cu accident vascular cerebral și comă, dacă se află în una din următoarele situații:</strong>
+    </p>
+    <p><img src="accident vascular.png" height="100px" width="200px"></p>
+    <p>
+      a. accident vascular cerebral hemoragie acut: comă sau stare stuporoasă, ce persistă peste 3 zile cu disfagie care
+      împiedică ingerarea suficientă de alimente și lichide pentru a menține viața unui pacient care nu este hrănit și
+      hidratat artificial.
+      <br>
+      b. faza cronică a accidentului vascular hemoragie sau ischemic evidențiată de una din următoarele stări: demență
+      post atac cerebral de stadiul 7 sau mai mult, conform scalei de evaluare funcțională; status de performanță
+      Karnofsky mai mic de 50%; status nutrițional slab, indiferent dacă este sau nu hrănit artificial, însoțit de o
+      scădere în greutate de peste 10% în ultimele 6 luni și albuminele serice < 2.5 gm/dl . <br>
+        c. comă de orice etiologie
+        cu oricare trei dintre următoarele manifestări, în a treia zi de comă: răspuns cerebral anormal; absența
+        răspunsului verbal; absența răspunsului la durere; creatinină serică>1.5 mg/dl.
+
+    </p>
+    <p><strong>Pacienții cu miastenia gravis dacă se află în una din următoarele situații:</strong></p>
+    <p><img src="miastenia.png" width="200px" height="300px"></p>
+    <p>
+
+      a) stadiul III sau IV al bolii conform clasificării Ossermann.
+      <br>
+      b) stadiul III formă generalizată acută cu evoluție gravă, rapid progresivă, cuparticipare bulbară și insuficiență
+      respiratorie;
+      <br>
+      c) stadiul IV formă cu evoluție cronică gravă și rezistență mare la terapie, progresie din stadiul I, II sau III
+      în
+      ultimii 2 ani .
+
+    </p>
+    <p>
+      1. Recuperare medicală afecțiuni post-traumatice:
+      <br>
+      fracturi operate sau neoperate
+      <br>
+      entorse
+      <br>
+      luxații
+      <br><br>
+      2. Recuperare medicală afecțiuni reumatismale:
+      <br>
+      boală poliartrozică
+      <br>
+      spondiloze
+      <br>
+      coxartroză
+      <br>
+      gonartroză
+
+      <br><br>
+      3. Recuperare medicală neurologică:
+      <br>
+      recuperare AVC(accident vascular cerebral)
+      <br>
+      polineuropatie
+      <br>
+      pareze și paralizii
+      <br>
+      scleroză în plăc
+      <br>
+      stare vegetativă
+      <br>
+      sindrom de imobilizare
+
+      <br><br>
+      4. Recuperare medicală afecțiuni ale coloanei vertebrale:
+      <br>
+      hernie de disc operată sau neoperată
+      <br>
+      afecțiuni degenerative ale corpilor vertebrali
+      <br>
+      discopatii post-intervenții neurochirurgicale
+      <br>
+      stenoză de canal medular
+      <br>
+      sindrom de imobilizare
+
+    </p>

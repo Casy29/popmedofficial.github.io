@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="navlog.png">
+
+  <!--========== BOX ICONS ==========-->
+  <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+
+  <!--========== CSS ==========-->
+  <link rel="stylesheet" href="assets/css/styles.css">
+
+
+  <title>Drepturi Pacienti </title>
+</head>
+<style>
+  p {
+    margin-inline-start: 10%;
+    margin-inline-end: 6%;
+  }
+
+  .button {
+    border-radius: 4px;
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-inline-start: 25%;
+    bottom: 15%;
+  }
+
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+
+  .button span::after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+
+  .button:hover span {
+    padding-right: 25px;
+
+  }
+
+  .button:hover span::after {
+    opacity: 1;
+    right: 0;
+  }
+  ::-webkit-scrollbar {
+    width: 20px;
+  }
+
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 20px;
+  }
+
+
+  ::-webkit-scrollbar-thumb {
+    background: red;
+    border-radius: 7px;
+  }
+
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+  }
+</style>
+<div class="invisible-scrollbar"></div>
+<body>
+
+  </a>
+
+  <main class="l-main">
+    <!--========== HOME ==========-->
+    <section class="home" id="home">
+      <img src="top3.png" style="margin-top: -5%;margin:0%;">
+
+      <div class="home__data">
+    
+
+    
+            <p style="color:#0056b3; font-size: 20px;margin-inline-start: 3%;margin-top: -11%;">
+                Drepturile pacientului sunt reglementate de Legea nr. 46/2003 si<br> Normele de Aplicare prin Ordinul Ministerului
+                Sanatatii Publice nr. 386/2004.
+                <br><br>
+                In sensul prezentei legi:
+              </p>
+              <p style="font-size: 16px;margin-inline-start: 3%;">
+                <em>CAPTOLUL 1</em>
+                <br>
+                <em>Art.1</em>
+                <br>
+                a) prin pacient se intelege persoana sanatoasa sau bolnava care utilizeaza serviciile de sanatate.
+                <br>
+                b) prin discriminare se intelege distinctia care se face intre persoane aflate in situatii similare pe baza rasei,
+                sexului, varstei, apartenentei etnice, originii nationale sau sociale, religiei, optiunilor politice sau
+                antipatiei personale.
+                <br>
+                c) prin ingrijiri de sanatate se intelege serviciile medicale, serviciile comunitare si serviciile conexe actului
+                medical.
+                <br>
+                d) prin interventie medicala se intelege orice examinare, tratament sau alt act medical in scop de diagnostic
+                preventiv, terapeutic ori de reabilitare.
+                <br>
+                e) prin ingrijiri terminale se intelege ingrijirile acordate unui pacient cu mijloacele de tratament disponibile,
+                atunci cand nu mai este posibila imbunatatirea prognozei fatale a starii de boala, precum si ingrijirile acordate
+                in apropierea decesului.
+                <br><br>
+            
+                <em>Art.2</em>
+                <br>
+                - Pacientii au dreptul la ingrijiri medicale de cea mai inalta calitate de care societatea dispune, in
+                conformitate cu resursele umane, financiare si materiale.
+                <br>
+                <em>Art.3</em>
+                <br>
+                - Pacientul are dreptul de a fi respectat ca persoana umana, fara nici o discriminare.”
+                <br><br>
+                <em>CAPITOLUL II - Dreptul pacientului la informatia medicala</em>
+                <br>
+                <em>Art.4 .</em>
+                <br>
+                Pacientul are dreptul de a fi informat cu privire la serviciile medicale disponibile, precum si la modul de a le
+                utiliza.
+                <br><br>
+                <em>Art.5.</em>
+                <br>
+                (1) Pacientul are dreptul de a fi informat asupra identitatii si statutului profesional al furnizorilor de
+                servicii de sanatate.
+                <br>
+                (2) Pacientul internat are dreptul de a fi informat asupra regulilor si obiceiurilor pe care trebuie sa le
+                respecte pe durata spitalizarii.
+                <br><br>
+                <em>Art.6</em>
+                <br>
+                Pacientul are dreptul de a fi informat asupra starii sale de sanatate, a interventiilor medicale propuse, a
+                riscurilor potentiale ale fiecarei proceduri, a alternativelor existente la procedurile propuse, inclusiv asupra
+                neefectuarii tratamentului si nerespectarii recomandarilor medicale, precum si cu privire ladate despre diagnostic
+                si prognostic.
+                <br><br>
+                <em>Art.7.</em>
+                <br>
+                Pacientul are dreptul de a decide daca mai doreste sa fie informat in cazul in care informatiile prezentate de
+                catre medic i-ar cauza suferinta.
+                <br><br>
+                <em>Art.8.</em>
+                <br>
+                Informatiile se aduc la cunostinta pacientului intr-un limbaj respectuos, clar, cu minimalizarea terminologiei de
+                specialitate; in cazul in care pacientul nu cunoaste limba romana, informatiile i se aduc la cunostinta in limba
+                materna ori in limba pe care o cunoaste sau, dupa caz, se va cauta o alta forma de comunicare.
+                <br><br>
+                <em>Art.9.</em>
+                <br>
+                Pacientul are dreptul de a cere in mod expres sa nu fie informat si de a alege o alta persoana care sa fie
+                informata in locul sau.
+                <br><br>
+                <em>Art.10.</em>
+                <br>
+                Rudele si prietenii pacientului pot fi informati despre evolutia investigatiilor, diagnostic si tratament, cu
+                acordul pacientului.
+                <br><br>
+                <em>Art.11.</em>
+                <br>
+                Pacientul are dreptul de a cere si de a obtine o alta opinie medicala.
+                <br><br>
+                <em>Art.12.</em>
+                <br>
+                Pacientul are dreptul sa solicite si sa primeasca, la externare, un rezumat scris al investigatiilor,
+                diagnosticului, tratamentului si ingrijirilor acordate pe perioada spitalizarii.
+                <br><br>
+                <em>CAPITOLUL 3 Consimtamantul pacientului privind interventia medicala</em>
+                <br><br><br>
+            
+                <em>Art.14.</em>
+                <br>
+                Cand pacientul nu isi poate exprima vointa, dar este necesara o interventie medicala de urgenta, personalul
+                medical are dreptul sa deduca acordul pacientului dintr-o exprimare anterioara a vointei acestuia.
+                <br><br>
+                <em>Art.15.</em>
+                <br>
+                In cazul in care pacientul necesita o interventie medicala de urgenta, consimtamantul reprezentantului legal nu
+                mai este necesar.
+                <br><br>
+                <em>Art.16.</em>
+                <br>
+                n cazul in care se cere consimtamantul reprezentantului legal, pacientul trebuie sa fie implicat in procesul de
+                luare a deciziei atat cat permite capacitatea lui de intelegere.
+                <br><br>
+                <em>Art.17.</em>
+                <br>
+                1) In cazul in care furnizorii de servicii medicale considera ca interventia este in interesul pacientului, iar
+                reprezentantul legal refuza sa isi dea consimtamantul, decizia este declinata unei comisii de arbitraj de
+                specialitate.
+                <br>
+                (2) Comisia de arbitraj este constituita din 3 medici pentru pacientii internati in spitale si din 2 medici pentru
+                pacientii din ambulator.
+                <br><br>
+                <em>Art.18.</em>
+                <br>
+                Consimtamantul pacientului este obligatoriu pentru recoltarea, pastrarea, folosirea tuturor produselor biologice
+                prelevate din corpul sau, in vederea stabilirii diagnosticului sau a tratamentului cu care acesta este de acord.
+                <br><br>
+                <em>Art.19.</em>
+                <br>
+                Consimtamantul pacientului este obligatoriu in cazul participarii sale in invatamantul medical clinic si la
+                cercetarea stiintifica. Nu pot fi folosite pentru cercetare stiintifica persoanele care nu sunt capabile sa isi
+                exprime vointa, cu exceptia obtinerii consimtamantului de la reprezentantul legal si daca cercetarea este facuta
+                si in interesul pacientului.
+                <br><br>
+                <em>Art.20.</em>
+                <br>
+                Pacientul nu poate fi fotografiat sau filmat intr-o unitate medicala fara consimtamantul sau, cu exceptia
+                cazurilor in care imaginile sunt necesare diagnosticului sau tratamentului si evitarii suspectarii unei culpe
+                medicale.
+                <br><br><br>
+                <em>CAPTOLUL 4. Dreptul la confidentialitatea informatiilor si viata privata a pacientului</em>
+                <br>
+                <em>Art.21.</em>
+                <br>
+                Toate informatiile privind starea pacientului, rezultatele investigatiilor, diagnosticul, prognosticul,
+                tratamentul, datele personale sunt confidentiale chiar si dupa decesul acestuia.
+                <br><br>
+                <em>Art.22.</em>
+                <br>
+                Informatiile cu caracter confidential pot fi furnizate numai in cazul in care pacientul isi da consimtamantul
+                explicit sau daca legea o cere in mod expres.
+                <br><br>
+                <em>Art.23.</em>
+                <br>
+                In cazul in care informatiile sunt necesare altor furnizori de servicii medicale acreditati, implicati in
+                tratamentul pacientului, acordarea consimtamantului nu mai este obligatorie.
+                <br><br>
+                <em>Art.24.</em>
+                <br>
+                Pacientul are acces la datele medicale personale.
+                <br><br>
+                <em>Art.25.</em>
+                <br>
+                (1) Orice amestec in viata privata, familiala a pacientului este interzis, cu exceptia cazurilor in care aceasta
+                imixtiune influenteaza pozitiv diagnosticul, tratamentul ori ingrijirile acordate si numai cu consimtamantul
+                pacientului.
+                <br>
+                (2) Sunt considerate exceptii cazurile in care pacientul reprezinta pericol pentru sine sau pentru sanatatea
+                publica.
+            
+                <br><br>
+                <em>CAPITOLUL.5. Drepturile pacientului in domeniul reproducerii</em>
+                <br><br><br>
+                <em>Art.26.</em>
+                <br>
+                Dreptul femeii la viata prevaleaza in cazul in care sarcina reprezinta un factor de risc major si imediat pentru
+                viata mamei.
+                <br><br>
+                <em>Art.27</em>
+                <br>
+                Pacientul are dreptul la informatii, educatie si servicii necesare dezvoltarii unei vieti sexuale normale si
+                sanatatii reproducerii, fara nici o discriminare.
+                <br><br>
+                <em>Art.28.</em>
+                <br>
+                (1) Dreptul femeii de a hotari daca sa aiba sau nu copii este garantat, cu exceptia cazului prevazut la <em>art.
+                  26.</em>
+                <br>
+                2) Sa respecte programul spitalului.
+                <br>
+                3) Sa respecte ordinea interioara din spital, linistea si curatenia.
+                <br>
+                4) Sa nu produca zgomote care produc disconfort celorlalti pacienti.
+                <br>
+                5) Sa manifeste grija fata de bunurile din dotarea spitalului, iar in cazul in care din vina sa a deteriorat
+                aceste bunuri sa achite contravaloarea lor, in caz contrar se supune regulilor de drept civil.
+                <br>
+                6) Sa manifeste o conduita civilizata fata de personalul medico-sanitar.
+                <br>
+                7) Sa respecte regulile de igiena personala si colective.
+                <br>
+                8) Sa respecte cu strictete tratamentul si indicatiile medicului.
+                <br>
+                9) Sa respecte regimul alimentar indicat de medic.
+                <br>
+                10) Sa respecte intimitatea si confidentialitatea celorlalti pacienti.
+                <br>
+                11) Sa poarte echipament de spital si sa nu paraseasca incinta spitalului in acest echipament.
+                <br>
+                12) Sa nu consume si sa nu introduca in spital bauturi alcoolice.
+                <br>
+                13) Sa respecte masurile de prevenire si combatere a bolilor cu transmitere .
+                <br>
+                14) Sa respecte programul de vizita pentru a nu perturba activitatea medicala.
+                <br>
+                15) Sa nu fumeze in spital.
+            
+  
+
+      </div>
+
+
+    </section>
+  </main>
+  </div>
+
+  <a href="site.html" class="float1" target="_blank"><img src="home2.png" style="height:40px;margin-top: 13%; ">  </a>
+  
+    
+   
+ 
+  <style>
+    .float1
+    {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 30px;
+      right: 20px;
+      background-color: red;
+      color: #fff;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 30px;
+      z-index: 100;
+      margin-left: 10%;
+    }
+    .my-float
+    {
+      margin-top: 20px;
+    }
+    
+  </style>
+
+</body>
+
+</html>
